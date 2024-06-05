@@ -1,0 +1,21 @@
+ros-humble-nao-sensor-msgs (0.0.5-2bullseye) bullseye; urgency=high
+
+
+
+ -- ijnek <kenjibrameld@gmail.com>  Fri, 19 Apr 2024 16:00:00 -0000
+
+ros-humble-nao-sensor-msgs (0.0.4-2bullseye) bullseye; urgency=high
+
+  * update package descriptions, and remove unused dependency
+  * Contributors: Kenji Brameld
+
+ -- ijnek <kenjibrameld@gmail.com>  Sun, 23 Jan 2022 16:00:00 -0000
+
+ros-humble-nao-sensor-msgs (0.0.3-2bullseye) bullseye; urgency=high
+
+  * separated msgs into two different packages, sensor and command packages
+  * Contributors: Kenji Brameld
+
+ -- ijnek <kenjibrameld@gmail.com>  Fri, 16 Jul 2021 16:00:00 -0000
+
+
